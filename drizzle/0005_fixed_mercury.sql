@@ -1,0 +1,2 @@
+ALTER TABLE "forecast_history" DROP CONSTRAINT "forecast_history_row_number_fixture_id_pk";--> statement-breakpoint
+CREATE UNIQUE INDEX "row_fixture_idx" ON "forecast_history" USING btree ("row_number","fixture_id");

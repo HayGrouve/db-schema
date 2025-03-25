@@ -1,0 +1,41 @@
+{
+  "name": "@haygrouve/db-schema",
+  "version": "1.5.0",
+  "description": "Shared database schema for our projects",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "drizzle"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "generate": "drizzle-kit generate --config=./drizzle.config.ts",
+    "migrate": "ts-node scripts/migrate.ts",
+    "push": "drizzle-kit push --config=./drizzle.config.ts",
+    "studio": "drizzle-kit studio --config=./drizzle.config.ts",
+    "publish": "npm run build && npm publish --access public"
+  },
+  "keywords": [
+    "database",
+    "schema",
+    "drizzle",
+    "orm"
+  ],
+  "author": "Tsvetomir Tsekov",
+  "license": "MIT",
+  "dependencies": {
+    "@electric-sql/pglite": "^0.2.17",
+    "drizzle-orm": "^0.40.1",
+    "pg": "^8.11.3",
+    "postgres": "^3.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@types/pg": "^8.10.9",
+    "dotenv": "^16.3.1",
+    "drizzle-kit": "^0.30.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

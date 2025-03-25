@@ -1,0 +1,8 @@
+node_modules/
+src/
+.env
+.env.example
+.gitignore
+.npmignore
+drizzle.config.ts
+tsconfig.json
