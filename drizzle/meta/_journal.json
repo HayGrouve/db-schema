@@ -43,6 +43,13 @@
       "when": 1742678121947,
       "tag": "0005_fixed_mercury",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1744399905249,
+      "tag": "0006_white_black_tom",
+      "breakpoints": true
     }
   ]
 }
