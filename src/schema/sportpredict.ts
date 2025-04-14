@@ -8,17 +8,17 @@ import {
   json,
   primaryKey,
   uniqueIndex,
-  boolean, // Using boolean for isCorrect
-  varchar, // For weekSectionId and actualOutcome
+  boolean,
+  varchar,
 } from "drizzle-orm/pg-core";
 
-// --- footballScores Table (No changes needed here) ---
+// --- footballScores Table  ---
 export const footballScores = pgTable("football_scores", {
   id: serial("id").primaryKey(),
   fixtureId: integer("fixture_id").notNull().unique(),
   rowNumber: integer("row_number").notNull(),
   day: text("day").notNull(),
-  startTime: timestamp("start_time", { withTimezone: true }).notNull(), // Added withTimezone
+  startTime: timestamp("start_time", { withTimezone: true }).notNull(),
   status: json("status").notNull().$type<{
     long: string;
     short: string;
@@ -49,38 +49,37 @@ export const footballScores = pgTable("football_scores", {
     season: number;
     round: string;
   }>(),
-  odds: json("odds").notNull().$type<{
+  odds: json("odds").$type<{
     home: string | null;
     draw: string | null;
     away: string | null;
   }>(),
-  lastUpdated: timestamp("last_updated", { withTimezone: true }) // Added withTimezone
+  lastUpdated: timestamp("last_updated", { withTimezone: true })
     .defaultNow()
     .notNull(),
 });
 
-// --- apiCache Table (No changes needed here) ---
+// --- apiCache Table (No changes needed) ---
 export const apiCache = pgTable("api_cache", {
   id: serial("id").primaryKey(),
   key: text("key").notNull().unique(),
-  lastFetched: timestamp("last_fetched", { withTimezone: true }) // Added withTimezone
+  lastFetched: timestamp("last_fetched", { withTimezone: true })
     .defaultNow()
     .notNull(),
 });
 
-// --- forecastHistory Table (UPDATED) ---
+// --- forecastHistory Table ---
 export const forecastHistory = pgTable(
   "forecast_history",
   {
     id: serial("id").primaryKey(),
-    // Identifier for the week section (e.g., "2025-W15-SatMon")
     weekSectionId: varchar("week_section_id", { length: 50 }).notNull(),
-    rowNumber: integer("row_number").notNull(), // Row number within that section
+    rowNumber: integer("row_number").notNull(),
     fixtureId: integer("fixture_id").notNull(),
-    forecast: varchar("forecast", { length: 3 }).notNull(), // "1/X", "X/2", "1/2"
-    isCorrect: boolean("is_correct"), // Null until checked, then true/false
+    forecast: varchar("forecast", { length: 3 }).notNull(),
+    isCorrect: boolean("is_correct"),
     actualOutcome: varchar("actual_outcome", { length: 1 }), // '1', 'X', '2', or null
-    createdAt: timestamp("created_at", { withTimezone: true }) // Added withTimezone
+    createdAt: timestamp("created_at", { withTimezone: true })
       .defaultNow()
       .notNull(),
   },
@@ -94,17 +93,15 @@ export const forecastHistory = pgTable(
   }
 );
 
-// --- Optional: weekSections Table (Recommended for tracking) ---
-// You can add this if you want to explicitly track processed sections
-// export const weekSections = pgTable("week_sections", {
-//   id: varchar("id", { length: 50 }).primaryKey(), // e.g., "2025-W15-SatMon"
-//   startDate: timestamp("start_date", { withTimezone: true }).notNull(),
-//   endDate: timestamp("end_date", { withTimezone: true }).notNull(),
-//   predictionsProcessedAt: timestamp("predictions_processed_at", { withTimezone: true }),
-// });
-
 // --- Types ---
-export type FootballScore = typeof footballScores.$inferSelect;
+export type FootballScoreDb = typeof footballScores.$inferSelect;
 export type ApiCache = typeof apiCache.$inferSelect;
 export type ForecastHistory = typeof forecastHistory.$inferSelect;
-// export type WeekSection = typeof weekSections.$inferSelect; // Uncomment if using weekSections table
+
+export type FootballScore = Omit<FootballScoreDb, "odds"> & {
+  odds: {
+    home: string;
+    draw: string;
+    away: string;
+  };
+};
