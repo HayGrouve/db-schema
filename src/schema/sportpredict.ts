@@ -97,11 +97,3 @@ export const forecastHistory = pgTable(
 export type FootballScoreDb = typeof footballScores.$inferSelect;
 export type ApiCache = typeof apiCache.$inferSelect;
 export type ForecastHistory = typeof forecastHistory.$inferSelect;
-
-export type FootballScore = Omit<FootballScoreDb, "odds"> & {
-  odds: {
-    home: string;
-    draw: string;
-    away: string;
-  };
-};

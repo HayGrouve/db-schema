@@ -14,7 +14,7 @@
     "migrate": "ts-node scripts/migrate.ts",
     "push": "drizzle-kit push --config=./drizzle.config.ts",
     "studio": "drizzle-kit studio --config=./drizzle.config.ts",
-    "publish": "1 generate 2 build 3 npm publish --access public"
+    "publish": "1 build 2 generate 3 push 4 npm publish --access public"
   },
   "keywords": [
     "database",
