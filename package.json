@@ -18,7 +18,8 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "validate": "tsc --noEmit",
-    "publish": "1 build 2 generate 3 push 4 npm publish --access public"
+    "schema:update": "npm run validate && npm run generate && npm run push",
+    "schema:publish": "npm run schema:update && npm run build && npm publish --access public"
   },
   "keywords": [
     "database",
