@@ -1,7 +1,5 @@
-CREATE SEQUENCE recipe_id_seq;
---> statement-breakpoint
 CREATE TABLE "recipe" (
-	"id" integer PRIMARY KEY DEFAULT nextval('recipe_id_seq') NOT NULL,
+	"id" integer PRIMARY KEY NOT NULL,
 	"title" varchar(256) NOT NULL,
 	"description" text,
 	"ingredients" jsonb NOT NULL,

@@ -12,10 +12,7 @@ import { sql } from "drizzle-orm";
 export const recipes = pgTable(
   "recipe",
   {
-    id: integer("id")
-      .primaryKey()
-      .notNull()
-      .default(sql`nextval('recipe_id_seq')`),
+    id: integer("id").primaryKey().notNull(),
     title: varchar("title", { length: 256 }).notNull(),
     description: text("description"),
     ingredients: jsonb("ingredients")

@@ -1,5 +1,5 @@
 {
-  "id": "c80c660f-ce72-4021-a2f1-2cb05d4edd57",
+  "id": "a47fdb18-cbf5-4c11-abcd-57872fc24a2b",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
@@ -12,8 +12,7 @@
           "name": "id",
           "type": "integer",
           "primaryKey": true,
-          "notNull": true,
-          "default": "nextval('recipe_id_seq')"
+          "notNull": true
         },
         "title": {
           "name": "title",

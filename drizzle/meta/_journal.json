@@ -8,6 +8,13 @@
       "when": 1746802771617,
       "tag": "0000_mighty_mandrill",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1746812366598,
+      "tag": "0001_secret_adam_warlock",
+      "breakpoints": true
     }
   ]
 }
