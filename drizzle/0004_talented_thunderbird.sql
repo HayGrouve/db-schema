@@ -1,16 +1,16 @@
 CREATE TABLE "recipe" (
-	"id" integer PRIMARY KEY NOT NULL,
+	"id" serial PRIMARY KEY NOT NULL,
 	"title" varchar(256) NOT NULL,
 	"description" text,
-	"ingredients" jsonb NOT NULL,
+	"ingredients" jsonb DEFAULT '[]'::jsonb NOT NULL,
 	"instructions" text NOT NULL,
-	"categories" jsonb NOT NULL,
+	"categories" jsonb DEFAULT '[]'::jsonb NOT NULL,
 	"prep_time" integer,
 	"cook_time" integer,
 	"servings" integer,
 	"image_url" varchar(256),
 	"created_at" timestamp with time zone DEFAULT CURRENT_TIMESTAMP NOT NULL,
-	"updated_at" timestamp with time zone,
+	"updated_at" timestamp with time zone DEFAULT CURRENT_TIMESTAMP NOT NULL,
 	"user_id" varchar(256) NOT NULL
 );
 --> statement-breakpoint

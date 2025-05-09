@@ -6,20 +6,22 @@ import {
   varchar,
   text,
   jsonb,
+  serial,
 } from "drizzle-orm/pg-core";
 import { sql } from "drizzle-orm";
 
 export const recipes = pgTable(
   "recipe",
   {
-    id: integer("id").primaryKey().notNull(),
+    id: serial("id").primaryKey(),
     title: varchar("title", { length: 256 }).notNull(),
     description: text("description"),
     ingredients: jsonb("ingredients")
       .$type<{ name: string; quantity: number; unit?: string }[]>()
-      .notNull(),
+      .notNull()
+      .default([]),
     instructions: text("instructions").notNull(),
-    categories: jsonb("categories").$type<string[]>().notNull(),
+    categories: jsonb("categories").$type<string[]>().notNull().default([]),
     prepTime: integer("prep_time"), // Prep time in minutes
     cookTime: integer("cook_time"), // Cook time in minutes
     servings: integer("servings"),
@@ -27,9 +29,10 @@ export const recipes = pgTable(
     createdAt: timestamp("created_at", { withTimezone: true })
       .default(sql`CURRENT_TIMESTAMP`)
       .notNull(),
-    updatedAt: timestamp("updated_at", { withTimezone: true }).$onUpdate(
-      () => new Date()
-    ),
+    updatedAt: timestamp("updated_at", { withTimezone: true })
+      .default(sql`CURRENT_TIMESTAMP`)
+      .notNull()
+      .$onUpdate(() => new Date()),
     userId: varchar("user_id", { length: 256 }).notNull(), // Clerk user ID
   },
   (recipe) => ({

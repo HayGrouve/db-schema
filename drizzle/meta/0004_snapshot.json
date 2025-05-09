@@ -1,5 +1,5 @@
 {
-  "id": "a47fdb18-cbf5-4c11-abcd-57872fc24a2b",
+  "id": "1e8dd59a-aa10-4da9-b069-54a4698c00aa",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
@@ -10,7 +10,7 @@
       "columns": {
         "id": {
           "name": "id",
-          "type": "integer",
+          "type": "serial",
           "primaryKey": true,
           "notNull": true
         },
@@ -30,7 +30,8 @@
           "name": "ingredients",
           "type": "jsonb",
           "primaryKey": false,
-          "notNull": true
+          "notNull": true,
+          "default": "'[]'::jsonb"
         },
         "instructions": {
           "name": "instructions",
@@ -42,7 +43,8 @@
           "name": "categories",
           "type": "jsonb",
           "primaryKey": false,
-          "notNull": true
+          "notNull": true,
+          "default": "'[]'::jsonb"
         },
         "prep_time": {
           "name": "prep_time",
@@ -79,7 +81,8 @@
           "name": "updated_at",
           "type": "timestamp with time zone",
           "primaryKey": false,
-          "notNull": false
+          "notNull": true,
+          "default": "CURRENT_TIMESTAMP"
         },
         "user_id": {
           "name": "user_id",
