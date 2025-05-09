@@ -19,7 +19,10 @@
     "test:coverage": "jest --coverage",
     "validate": "tsc --noEmit",
     "schema:update": "npm run validate && npm run generate && npm run push",
-    "schema:publish": "npm run schema:update && npm run build && npm publish --access public"
+    "schema:publish": "npm run schema:update && npm run build && npm publish --access public",
+    "version:patch": "npm version patch && npm run schema:publish",
+    "version:minor": "npm version minor && npm run schema:publish",
+    "version:major": "npm version major && npm run schema:publish"
   },
   "keywords": [
     "database",
