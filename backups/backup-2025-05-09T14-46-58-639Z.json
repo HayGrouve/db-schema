@@ -1,0 +1,2695 @@
+{
+  "timestamp": "2025-05-09T14:46:58.642Z",
+  "recipes": [],
+  "footballScores": [
+    {
+      "id": 513,
+      "fixtureId": 1331210,
+      "rowNumber": 1,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T00:10:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      },
+      "home": {
+        "id": 1067,
+        "name": "Defensores De Belgrano",
+        "logo": "https://media.api-sports.io/football/teams/1067.png",
+        "winner": true
+      },
+      "away": {
+        "id": 466,
+        "name": "Atletico Mitre",
+        "logo": "https://media.api-sports.io/football/teams/466.png",
+        "winner": false
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "league": {
+        "id": 129,
+        "name": "Primera Nacional",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/129.png",
+        "flag": "https://media.api-sports.io/flags/ar.svg",
+        "season": 2025,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "odds": {
+        "home": "1.95",
+        "draw": "2.75",
+        "away": "4.40"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 514,
+      "fixtureId": 1324643,
+      "rowNumber": 2,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T04:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      },
+      "home": {
+        "id": 286,
+        "name": "Vegalta Sendai",
+        "logo": "https://media.api-sports.io/football/teams/286.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4317,
+        "name": "Fujieda MYFC",
+        "logo": "https://media.api-sports.io/football/teams/4317.png",
+        "winner": false
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/99.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "odds": {
+        "home": "1.72",
+        "draw": "3.25",
+        "away": "4.33"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 515,
+      "fixtureId": 1324647,
+      "rowNumber": 3,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T04:55:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      },
+      "home": {
+        "id": 4322,
+        "name": "Kataller Toyama",
+        "logo": "https://media.api-sports.io/football/teams/4322.png",
+        "winner": false
+      },
+      "away": {
+        "id": 285,
+        "name": "V-varen Nagasaki",
+        "logo": "https://media.api-sports.io/football/teams/285.png",
+        "winner": true
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/99.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "odds": {
+        "home": "3.25",
+        "draw": "3.10",
+        "away": "2.00"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 516,
+      "fixtureId": 1324092,
+      "rowNumber": 4,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T05:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      },
+      "home": {
+        "id": 287,
+        "name": "Urawa",
+        "logo": "https://media.api-sports.io/football/teams/287.png",
+        "winner": false
+      },
+      "away": {
+        "id": 293,
+        "name": "Gamba Osaka",
+        "logo": "https://media.api-sports.io/football/teams/293.png",
+        "winner": true
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/98.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.15",
+        "draw": "3.30",
+        "away": "3.30"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 517,
+      "fixtureId": 1324098,
+      "rowNumber": 5,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T05:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      },
+      "home": {
+        "id": 316,
+        "name": "Avispa Fukuoka",
+        "logo": "https://media.api-sports.io/football/teams/316.png",
+        "winner": false
+      },
+      "away": {
+        "id": 290,
+        "name": "Kashima",
+        "logo": "https://media.api-sports.io/football/teams/290.png",
+        "winner": true
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/98.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.45",
+        "draw": "3.00",
+        "away": "3.00"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 518,
+      "fixtureId": 1324101,
+      "rowNumber": 6,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T05:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      },
+      "home": {
+        "id": 289,
+        "name": "Vissel Kobe",
+        "logo": "https://media.api-sports.io/football/teams/289.png",
+        "winner": false
+      },
+      "away": {
+        "id": 291,
+        "name": "Cerezo Osaka",
+        "logo": "https://media.api-sports.io/football/teams/291.png",
+        "winner": true
+      },
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/98.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "odds": {
+        "home": "1.78",
+        "draw": "3.50",
+        "away": "4.40"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 519,
+      "fixtureId": 1324642,
+      "rowNumber": 7,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T05:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      },
+      "home": {
+        "id": 279,
+        "name": "Consadole Sapporo",
+        "logo": "https://media.api-sports.io/football/teams/279.png",
+        "winner": false
+      },
+      "away": {
+        "id": 280,
+        "name": "Jubilo Iwata",
+        "logo": "https://media.api-sports.io/football/teams/280.png",
+        "winner": true
+      },
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/99.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.15",
+        "draw": "3.20",
+        "away": "2.90"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 520,
+      "fixtureId": 1324645,
+      "rowNumber": 8,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T05:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      },
+      "home": {
+        "id": 312,
+        "name": "Montedio Yamagata",
+        "logo": "https://media.api-sports.io/football/teams/312.png",
+        "winner": true
+      },
+      "away": {
+        "id": 298,
+        "name": "Oita Trinita",
+        "logo": "https://media.api-sports.io/football/teams/298.png",
+        "winner": false
+      },
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/99.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.35",
+        "draw": "2.90",
+        "away": "2.85"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 521,
+      "fixtureId": 1324648,
+      "rowNumber": 9,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T05:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      },
+      "home": {
+        "id": 309,
+        "name": "Renofa Yamaguchi",
+        "logo": "https://media.api-sports.io/football/teams/309.png",
+        "winner": false
+      },
+      "away": {
+        "id": 305,
+        "name": "Mito Hollyhock",
+        "logo": "https://media.api-sports.io/football/teams/305.png",
+        "winner": true
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/99.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.60",
+        "draw": "2.90",
+        "away": "2.55"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 522,
+      "fixtureId": 1340769,
+      "rowNumber": 10,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T05:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      },
+      "home": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2750,
+        "name": "Daejeon Citizen",
+        "logo": "https://media.api-sports.io/football/teams/2750.png",
+        "winner": null
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "league": {
+        "id": 292,
+        "name": "K League 1",
+        "country": "South-Korea",
+        "logo": "https://media.api-sports.io/football/leagues/292.png",
+        "flag": "https://media.api-sports.io/flags/kr.svg",
+        "season": 2025,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "odds": {
+        "home": "1.95",
+        "draw": "3.30",
+        "away": "3.80"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 523,
+      "fixtureId": 1324097,
+      "rowNumber": 11,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T06:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      },
+      "home": {
+        "id": 288,
+        "name": "Nagoya Grampus",
+        "logo": "https://media.api-sports.io/football/teams/288.png",
+        "winner": null
+      },
+      "away": {
+        "id": 310,
+        "name": "Fagiano Okayama",
+        "logo": "https://media.api-sports.io/football/teams/310.png",
+        "winner": null
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/98.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.35",
+        "draw": "3.00",
+        "away": "3.20"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 524,
+      "fixtureId": 1324644,
+      "rowNumber": 12,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T06:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      },
+      "home": {
+        "id": 4315,
+        "name": "Blaublitz Akita",
+        "logo": "https://media.api-sports.io/football/teams/4315.png",
+        "winner": false
+      },
+      "away": {
+        "id": 308,
+        "name": "Ventforet Kofu",
+        "logo": "https://media.api-sports.io/football/teams/308.png",
+        "winner": true
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/99.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.15",
+        "draw": "2.87",
+        "away": "3.20"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 525,
+      "fixtureId": 1324650,
+      "rowNumber": 13,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T06:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      },
+      "home": {
+        "id": 318,
+        "name": "Ehime FC",
+        "logo": "https://media.api-sports.io/football/teams/318.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7127,
+        "name": "Iwaki",
+        "logo": "https://media.api-sports.io/football/teams/7127.png",
+        "winner": null
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/99.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "odds": {
+        "home": "3.10",
+        "draw": "3.20",
+        "away": "2.05"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 526,
+      "fixtureId": 1324651,
+      "rowNumber": 14,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T06:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      },
+      "home": {
+        "id": 314,
+        "name": "Roasso Kumamoto",
+        "logo": "https://media.api-sports.io/football/teams/314.png",
+        "winner": false
+      },
+      "away": {
+        "id": 10075,
+        "name": "Imabari",
+        "logo": "https://media.api-sports.io/football/teams/10075.png",
+        "winner": true
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/99.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.85",
+        "draw": "3.00",
+        "away": "2.25"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 527,
+      "fixtureId": 1324649,
+      "rowNumber": 15,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T06:50:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      },
+      "home": {
+        "id": 299,
+        "name": "Tokushima Vortis",
+        "logo": "https://media.api-sports.io/football/teams/299.png",
+        "winner": false
+      },
+      "away": {
+        "id": 295,
+        "name": "Sagan Tosu",
+        "logo": "https://media.api-sports.io/football/teams/295.png",
+        "winner": true
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/99.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.30",
+        "draw": "2.65",
+        "away": "3.20"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 528,
+      "fixtureId": 1324093,
+      "rowNumber": 16,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T07:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 12
+      },
+      "home": {
+        "id": 281,
+        "name": "Kashiwa Reysol",
+        "logo": "https://media.api-sports.io/football/teams/281.png",
+        "winner": true
+      },
+      "away": {
+        "id": 283,
+        "name": "Shimizu S-pulse",
+        "logo": "https://media.api-sports.io/football/teams/283.png",
+        "winner": false
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/98.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.15",
+        "draw": "3.10",
+        "away": "3.50"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 529,
+      "fixtureId": 1324094,
+      "rowNumber": 17,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T07:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      },
+      "home": {
+        "id": 306,
+        "name": "Tokyo Verdy",
+        "logo": "https://media.api-sports.io/football/teams/306.png",
+        "winner": true
+      },
+      "away": {
+        "id": 307,
+        "name": "Yokohama FC",
+        "logo": "https://media.api-sports.io/football/teams/307.png",
+        "winner": false
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/98.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.50",
+        "draw": "2.80",
+        "away": "3.10"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 530,
+      "fixtureId": 1324646,
+      "rowNumber": 18,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T07:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      },
+      "home": {
+        "id": 301,
+        "name": "JEF United Chiba",
+        "logo": "https://media.api-sports.io/football/teams/301.png",
+        "winner": false
+      },
+      "away": {
+        "id": 313,
+        "name": "Omiya Ardija",
+        "logo": "https://media.api-sports.io/football/teams/313.png",
+        "winner": true
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/99.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.20",
+        "draw": "3.25",
+        "away": "2.75"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 531,
+      "fixtureId": 1340770,
+      "rowNumber": 19,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T07:30:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      },
+      "home": {
+        "id": 2761,
+        "name": "Jeju United FC",
+        "logo": "https://media.api-sports.io/football/teams/2761.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2746,
+        "name": "Gangwon FC",
+        "logo": "https://media.api-sports.io/football/teams/2746.png",
+        "winner": true
+      },
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "league": {
+        "id": 292,
+        "name": "K League 1",
+        "country": "South-Korea",
+        "logo": "https://media.api-sports.io/football/leagues/292.png",
+        "flag": "https://media.api-sports.io/flags/kr.svg",
+        "season": 2025,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.25",
+        "draw": "3.20",
+        "away": "3.20"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 532,
+      "fixtureId": 1340771,
+      "rowNumber": 20,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T10:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      },
+      "home": {
+        "id": 2748,
+        "name": "FC Anyang",
+        "logo": "https://media.api-sports.io/football/teams/2748.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2766,
+        "name": "FC Seoul",
+        "logo": "https://media.api-sports.io/football/teams/2766.png",
+        "winner": null
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "league": {
+        "id": 292,
+        "name": "K League 1",
+        "country": "South-Korea",
+        "logo": "https://media.api-sports.io/football/leagues/292.png",
+        "flag": "https://media.api-sports.io/flags/kr.svg",
+        "season": 2025,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "odds": {
+        "home": "4.00",
+        "draw": "3.25",
+        "away": "1.93"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 533,
+      "fixtureId": 1340772,
+      "rowNumber": 21,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T10:00:00.000Z",
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      },
+      "home": {
+        "id": 2756,
+        "name": "Suwon City FC",
+        "logo": "https://media.api-sports.io/football/teams/2756.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2747,
+        "name": "Daegu FC",
+        "logo": "https://media.api-sports.io/football/teams/2747.png",
+        "winner": false
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "league": {
+        "id": 292,
+        "name": "K League 1",
+        "country": "South-Korea",
+        "logo": "https://media.api-sports.io/football/leagues/292.png",
+        "flag": "https://media.api-sports.io/flags/kr.svg",
+        "season": 2025,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.30",
+        "draw": "3.40",
+        "away": "2.95"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 534,
+      "fixtureId": 1372631,
+      "rowNumber": 22,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T14:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 17306,
+        "name": "Levski Krumovgrad",
+        "logo": "https://media.api-sports.io/football/teams/17306.png",
+        "winner": null
+      },
+      "away": {
+        "id": 858,
+        "name": "Lokomotiv Plovdiv",
+        "logo": "https://media.api-sports.io/football/teams/858.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 172,
+        "name": "First League",
+        "country": "Bulgaria",
+        "logo": "https://media.api-sports.io/football/leagues/172.png",
+        "flag": "https://media.api-sports.io/flags/bg.svg",
+        "season": 2024,
+        "round": "Relegation Round - 3",
+        "standings": true
+      },
+      "odds": {
+        "home": "3.10",
+        "draw": "2.80",
+        "away": "2.37"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 535,
+      "fixtureId": 1219892,
+      "rowNumber": 23,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T16:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 4993,
+        "name": "Stripfing",
+        "logo": "https://media.api-sports.io/football/teams/4993.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1400,
+        "name": "FC Liefering",
+        "logo": "https://media.api-sports.io/football/teams/1400.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 219,
+        "name": "2. Liga",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/leagues/219.png",
+        "flag": "https://media.api-sports.io/flags/at.svg",
+        "season": 2024,
+        "round": "Regular Season - 26",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.00",
+        "draw": "3.60",
+        "away": "3.10"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 536,
+      "fixtureId": 1372629,
+      "rowNumber": 24,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T16:30:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 856,
+        "name": "Septemvri Sofia",
+        "logo": "https://media.api-sports.io/football/teams/856.png",
+        "winner": null
+      },
+      "away": {
+        "id": 854,
+        "name": "Slavia Sofia",
+        "logo": "https://media.api-sports.io/football/teams/854.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 172,
+        "name": "First League",
+        "country": "Bulgaria",
+        "logo": "https://media.api-sports.io/football/leagues/172.png",
+        "flag": "https://media.api-sports.io/flags/bg.svg",
+        "season": 2024,
+        "round": "Relegation Round - 3",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.20",
+        "draw": "3.25",
+        "away": "2.95"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 537,
+      "fixtureId": 1341753,
+      "rowNumber": 25,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T17:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 2241,
+        "name": "Vasteras SK FK",
+        "logo": "https://media.api-sports.io/football/teams/2241.png",
+        "winner": null
+      },
+      "away": {
+        "id": 374,
+        "name": "Kalmar FF",
+        "logo": "https://media.api-sports.io/football/teams/374.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 114,
+        "name": "Superettan",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/leagues/114.png",
+        "flag": "https://media.api-sports.io/flags/se.svg",
+        "season": 2025,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.65",
+        "draw": "3.25",
+        "away": "2.45"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 538,
+      "fixtureId": 1374332,
+      "rowNumber": 26,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T18:45:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 6767,
+        "name": "Elgin City",
+        "logo": "https://media.api-sports.io/football/teams/6767.png",
+        "winner": null
+      },
+      "away": {
+        "id": 6757,
+        "name": "Annan Athletic",
+        "logo": "https://media.api-sports.io/football/teams/6757.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 183,
+        "name": "League One",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/leagues/183.png",
+        "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+        "season": 2024,
+        "round": "Relegation Round",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.45",
+        "draw": "3.20",
+        "away": "2.50"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 539,
+      "fixtureId": 1374334,
+      "rowNumber": 27,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T18:45:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 6766,
+        "name": "Edinburgh City",
+        "logo": "https://media.api-sports.io/football/teams/6766.png",
+        "winner": null
+      },
+      "away": {
+        "id": 6764,
+        "name": "East Fife",
+        "logo": "https://media.api-sports.io/football/teams/6764.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 183,
+        "name": "League One",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/leagues/183.png",
+        "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+        "season": 2024,
+        "round": "Relegation Round",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.70",
+        "draw": "3.30",
+        "away": "2.20"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 540,
+      "fixtureId": 1374336,
+      "rowNumber": 28,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T18:45:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 6784,
+        "name": "Stenhousemuir",
+        "logo": "https://media.api-sports.io/football/teams/6784.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4668,
+        "name": "Airdrie United",
+        "logo": "https://media.api-sports.io/football/teams/4668.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 180,
+        "name": "Championship",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/leagues/180.png",
+        "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+        "season": 2024,
+        "round": "Relegation Round",
+        "standings": true
+      },
+      "odds": {
+        "home": "3.10",
+        "draw": "3.30",
+        "away": "2.05"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 541,
+      "fixtureId": 1374338,
+      "rowNumber": 29,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T18:45:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 1384,
+        "name": "Queen of the South",
+        "logo": "https://media.api-sports.io/football/teams/1384.png",
+        "winner": null
+      },
+      "away": {
+        "id": 6763,
+        "name": "Cove Rangers",
+        "logo": "https://media.api-sports.io/football/teams/6763.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 180,
+        "name": "Championship",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/leagues/180.png",
+        "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+        "season": 2024,
+        "round": "Relegation Round",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.55",
+        "draw": "3.20",
+        "away": "2.35"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 542,
+      "fixtureId": 1374340,
+      "rowNumber": 30,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T18:45:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 901,
+        "name": "Partick",
+        "logo": "https://media.api-sports.io/football/teams/901.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1387,
+        "name": "Ayr Utd",
+        "logo": "https://media.api-sports.io/football/teams/1387.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 179,
+        "name": "Premiership",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/leagues/179.png",
+        "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+        "season": 2024,
+        "round": "Relegation Round",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.70",
+        "draw": "3.00",
+        "away": "2.35"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 543,
+      "fixtureId": 1371733,
+      "rowNumber": 31,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T19:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png",
+        "winner": null
+      },
+      "away": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 2,
+        "name": "UEFA Champions League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/2.png",
+        "flag": null,
+        "season": 2024,
+        "round": "Semi-finals",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.60",
+        "draw": "3.75",
+        "away": "2.45"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 544,
+      "fixtureId": 1353316,
+      "rowNumber": 32,
+      "day": "Tuesday, May 6",
+      "startTime": "2025-05-06T22:30:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 146,
+        "name": "CRB",
+        "logo": "https://media.api-sports.io/football/teams/146.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1193,
+        "name": "Cuiaba",
+        "logo": "https://media.api-sports.io/football/teams/1193.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 72,
+        "name": "Serie B",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/72.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2025,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.15",
+        "draw": "2.90",
+        "away": "3.40"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 545,
+      "fixtureId": 1353317,
+      "rowNumber": 33,
+      "day": "Wednesday, May 7",
+      "startTime": "2025-05-07T00:30:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 13975,
+        "name": "Athletic Club",
+        "logo": "https://media.api-sports.io/football/teams/13975.png",
+        "winner": null
+      },
+      "away": {
+        "id": 142,
+        "name": "Vila Nova",
+        "logo": "https://media.api-sports.io/football/teams/142.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 72,
+        "name": "Serie B",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/72.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2025,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.20",
+        "draw": "2.85",
+        "away": "3.40"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 546,
+      "fixtureId": 1324095,
+      "rowNumber": 34,
+      "day": "Wednesday, May 7",
+      "startTime": "2025-05-07T10:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 303,
+        "name": "Machida Zelvia",
+        "logo": "https://media.api-sports.io/football/teams/303.png",
+        "winner": null
+      },
+      "away": {
+        "id": 302,
+        "name": "Kyoto Sanga",
+        "logo": "https://media.api-sports.io/football/teams/302.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/98.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "odds": {
+        "home": "1.98",
+        "draw": "3.20",
+        "away": "3.90"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 547,
+      "fixtureId": 1324096,
+      "rowNumber": 35,
+      "day": "Wednesday, May 7",
+      "startTime": "2025-05-07T10:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 284,
+        "name": "Shonan Bellmare",
+        "logo": "https://media.api-sports.io/football/teams/284.png",
+        "winner": null
+      },
+      "away": {
+        "id": 282,
+        "name": "Sanfrecce Hiroshima",
+        "logo": "https://media.api-sports.io/football/teams/282.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/98.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "odds": {
+        "home": "3.80",
+        "draw": "3.25",
+        "away": "1.98"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 548,
+      "fixtureId": 1372628,
+      "rowNumber": 36,
+      "day": "Wednesday, May 7",
+      "startTime": "2025-05-07T14:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 1426,
+        "name": "CSKA 1948",
+        "logo": "https://media.api-sports.io/football/teams/1426.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4659,
+        "name": "Hebar 1918",
+        "logo": "https://media.api-sports.io/football/teams/4659.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 172,
+        "name": "First League",
+        "country": "Bulgaria",
+        "logo": "https://media.api-sports.io/football/leagues/172.png",
+        "flag": "https://media.api-sports.io/flags/bg.svg",
+        "season": 2024,
+        "round": "Relegation Round - 3",
+        "standings": true
+      },
+      "odds": {
+        "home": "1.29",
+        "draw": "5.25",
+        "away": "8.50"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 549,
+      "fixtureId": 1372630,
+      "rowNumber": 37,
+      "day": "Wednesday, May 7",
+      "startTime": "2025-05-07T16:30:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 1416,
+        "name": "Lokomotiv Sofia",
+        "logo": "https://media.api-sports.io/football/teams/1416.png",
+        "winner": null
+      },
+      "away": {
+        "id": 859,
+        "name": "Botev Vratsa",
+        "logo": "https://media.api-sports.io/football/teams/859.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 172,
+        "name": "First League",
+        "country": "Bulgaria",
+        "logo": "https://media.api-sports.io/football/leagues/172.png",
+        "flag": "https://media.api-sports.io/flags/bg.svg",
+        "season": 2024,
+        "round": "Relegation Round - 3",
+        "standings": true
+      },
+      "odds": {
+        "home": "1.71",
+        "draw": "3.50",
+        "away": "4.40"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 550,
+      "fixtureId": 1371731,
+      "rowNumber": 38,
+      "day": "Wednesday, May 7",
+      "startTime": "2025-05-07T19:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png",
+        "winner": null
+      },
+      "away": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/42.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 2,
+        "name": "UEFA Champions League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/2.png",
+        "flag": null,
+        "season": 2024,
+        "round": "Semi-finals",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.10",
+        "draw": "3.60",
+        "away": "3.30"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 551,
+      "fixtureId": 1371991,
+      "rowNumber": 39,
+      "day": "Thursday, May 8",
+      "startTime": "2025-05-08T19:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 327,
+        "name": "Bodo/Glimt",
+        "logo": "https://media.api-sports.io/football/teams/327.png",
+        "winner": null
+      },
+      "away": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 3,
+        "name": "UEFA Europa League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/3.png",
+        "flag": null,
+        "season": 2024,
+        "round": "Semi-finals",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.90",
+        "draw": "3.75",
+        "away": "2.25"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 552,
+      "fixtureId": 1371993,
+      "rowNumber": 40,
+      "day": "Thursday, May 8",
+      "startTime": "2025-05-08T19:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 33,
+        "name": "Manchester United",
+        "logo": "https://media.api-sports.io/football/teams/33.png",
+        "winner": null
+      },
+      "away": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media.api-sports.io/football/teams/531.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 3,
+        "name": "UEFA Europa League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/3.png",
+        "flag": null,
+        "season": 2024,
+        "round": "Semi-finals",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.05",
+        "draw": "3.40",
+        "away": "3.50"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 553,
+      "fixtureId": 1371997,
+      "rowNumber": 41,
+      "day": "Thursday, May 8",
+      "startTime": "2025-05-08T19:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media.api-sports.io/football/teams/502.png",
+        "winner": null
+      },
+      "away": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 848,
+        "name": "UEFA Europa Conference League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/848.png",
+        "flag": null,
+        "season": 2024,
+        "round": "Semi-finals",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.20",
+        "draw": "3.25",
+        "away": "3.00"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 554,
+      "fixtureId": 1371999,
+      "rowNumber": 42,
+      "day": "Thursday, May 8",
+      "startTime": "2025-05-08T19:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 49,
+        "name": "Chelsea",
+        "logo": "https://media.api-sports.io/football/teams/49.png",
+        "winner": null
+      },
+      "away": {
+        "id": 364,
+        "name": "Djurgardens IF",
+        "logo": "https://media.api-sports.io/football/teams/364.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 848,
+        "name": "UEFA Europa Conference League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/848.png",
+        "flag": null,
+        "season": 2024,
+        "round": "Semi-finals",
+        "standings": true
+      },
+      "odds": {
+        "home": "1.13",
+        "draw": "8.25",
+        "away": "14.00"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 555,
+      "fixtureId": 1374041,
+      "rowNumber": 43,
+      "day": "Thursday, May 8",
+      "startTime": "2025-05-08T19:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 56,
+        "name": "Bristol City",
+        "logo": "https://media.api-sports.io/football/teams/56.png",
+        "winner": null
+      },
+      "away": {
+        "id": 62,
+        "name": "Sheffield Utd",
+        "logo": "https://media.api-sports.io/football/teams/62.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 40,
+        "name": "Championship",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/40.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+        "season": 2024,
+        "round": "Promotion Play-offs - Semi-finals",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.70",
+        "draw": "3.00",
+        "away": "2.75"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 556,
+      "fixtureId": 1353320,
+      "rowNumber": 44,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T00:35:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 134,
+        "name": "Atletico Paranaense",
+        "logo": "https://media.api-sports.io/football/teams/134.png",
+        "winner": null
+      },
+      "away": {
+        "id": 132,
+        "name": "Chapecoense-sc",
+        "logo": "https://media.api-sports.io/football/teams/132.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 72,
+        "name": "Serie B",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/72.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2025,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "odds": {
+        "home": "1.52",
+        "draw": "3.75",
+        "away": "6.00"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 557,
+      "fixtureId": 1372334,
+      "rowNumber": 45,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T14:45:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 1430,
+        "name": "Arda Kardzhali",
+        "logo": "https://media.api-sports.io/football/teams/1430.png",
+        "winner": null
+      },
+      "away": {
+        "id": 566,
+        "name": "Ludogorets",
+        "logo": "https://media.api-sports.io/football/teams/566.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 172,
+        "name": "First League",
+        "country": "Bulgaria",
+        "logo": "https://media.api-sports.io/football/leagues/172.png",
+        "flag": "https://media.api-sports.io/flags/bg.svg",
+        "season": 2024,
+        "round": "Championship Round - 3",
+        "standings": true
+      },
+      "odds": {
+        "home": "3.20",
+        "draw": "3.25",
+        "away": "2.10"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 558,
+      "fixtureId": 1360199,
+      "rowNumber": 46,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T15:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 6232,
+        "name": "SCM Gloria Buzău",
+        "logo": "https://media.api-sports.io/football/teams/6232.png",
+        "winner": null
+      },
+      "away": {
+        "id": 6916,
+        "name": "Unirea Slobozia",
+        "logo": "https://media.api-sports.io/football/teams/6916.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 283,
+        "name": "Liga I",
+        "country": "Romania",
+        "logo": "https://media.api-sports.io/football/leagues/283.png",
+        "flag": "https://media.api-sports.io/flags/ro.svg",
+        "season": 2024,
+        "round": "Relegation Round - 8",
+        "standings": true
+      },
+      "odds": {
+        "home": "6.50",
+        "draw": "4.00",
+        "away": "1.44"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 559,
+      "fixtureId": 1203234,
+      "rowNumber": 47,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T16:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 14562,
+        "name": "Motor Lublin",
+        "logo": "https://media.api-sports.io/football/teams/14562.png",
+        "winner": null
+      },
+      "away": {
+        "id": 349,
+        "name": "Piast Gliwice",
+        "logo": "https://media.api-sports.io/football/teams/349.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 106,
+        "name": "Ekstraklasa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/leagues/106.png",
+        "flag": "https://media.api-sports.io/flags/pl.svg",
+        "season": 2024,
+        "round": "Regular Season - 32",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.65",
+        "draw": "3.10",
+        "away": "2.65"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 560,
+      "fixtureId": 1226458,
+      "rowNumber": 48,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T16:30:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 171,
+        "name": "1. FC Nürnberg",
+        "logo": "https://media.api-sports.io/football/teams/171.png",
+        "winner": null
+      },
+      "away": {
+        "id": 192,
+        "name": "1.FC Köln",
+        "logo": "https://media.api-sports.io/football/teams/192.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 79,
+        "name": "2. Bundesliga",
+        "country": "Germany",
+        "logo": "https://media.api-sports.io/football/leagues/79.png",
+        "flag": "https://media.api-sports.io/flags/de.svg",
+        "season": 2024,
+        "round": "Regular Season - 33",
+        "standings": true
+      },
+      "odds": {
+        "home": "4.33",
+        "draw": "4.10",
+        "away": "1.72"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 561,
+      "fixtureId": 1226460,
+      "rowNumber": 49,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T16:30:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 1313,
+        "name": "Preußen Münster",
+        "logo": "https://media.api-sports.io/football/teams/1313.png",
+        "winner": null
+      },
+      "away": {
+        "id": 159,
+        "name": "Hertha BSC",
+        "logo": "https://media.api-sports.io/football/teams/159.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 79,
+        "name": "2. Bundesliga",
+        "country": "Germany",
+        "logo": "https://media.api-sports.io/football/leagues/79.png",
+        "flag": "https://media.api-sports.io/flags/de.svg",
+        "season": 2024,
+        "round": "Regular Season - 33",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.40",
+        "draw": "3.75",
+        "away": "2.65"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 562,
+      "fixtureId": 1238160,
+      "rowNumber": 50,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T17:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "logo": "https://media.api-sports.io/football/teams/564.png",
+        "winner": null
+      },
+      "away": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media.api-sports.io/football/teams/611.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 203,
+        "name": "Süper Lig",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/leagues/203.png",
+        "flag": "https://media.api-sports.io/flags/tr.svg",
+        "season": 2024,
+        "round": "Regular Season - 35",
+        "standings": true
+      },
+      "odds": {
+        "home": "4.00",
+        "draw": "3.80",
+        "away": "1.77"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 563,
+      "fixtureId": 1238163,
+      "rowNumber": 51,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T17:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png",
+        "winner": null
+      },
+      "away": {
+        "id": 996,
+        "name": "Alanyaspor",
+        "logo": "https://media.api-sports.io/football/teams/996.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 203,
+        "name": "Süper Lig",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/leagues/203.png",
+        "flag": "https://media.api-sports.io/flags/tr.svg",
+        "season": 2024,
+        "round": "Regular Season - 35",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.35",
+        "draw": "3.40",
+        "away": "2.85"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 564,
+      "fixtureId": 1372613,
+      "rowNumber": 52,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T17:15:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 853,
+        "name": "CSKA Sofia",
+        "logo": "https://media.api-sports.io/football/teams/853.png",
+        "winner": null
+      },
+      "away": {
+        "id": 634,
+        "name": "Botev Plovdiv",
+        "logo": "https://media.api-sports.io/football/teams/634.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 172,
+        "name": "First League",
+        "country": "Bulgaria",
+        "logo": "https://media.api-sports.io/football/leagues/172.png",
+        "flag": "https://media.api-sports.io/flags/bg.svg",
+        "season": 2024,
+        "round": "Conference League Play-off Group - 3",
+        "standings": true
+      },
+      "odds": {
+        "home": "1.40",
+        "draw": "4.40",
+        "away": "6.75"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 565,
+      "fixtureId": 1213728,
+      "rowNumber": 53,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T18:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 195,
+        "name": "Willem II",
+        "logo": "https://media.api-sports.io/football/teams/195.png",
+        "winner": null
+      },
+      "away": {
+        "id": 206,
+        "name": "Heracles",
+        "logo": "https://media.api-sports.io/football/teams/206.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 88,
+        "name": "Eredivisie",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/leagues/88.png",
+        "flag": "https://media.api-sports.io/flags/nl.svg",
+        "season": 2024,
+        "round": "Regular Season - 32",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.45",
+        "draw": "3.40",
+        "away": "2.80"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 566,
+      "fixtureId": 1360200,
+      "rowNumber": 54,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T18:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 2585,
+        "name": "Sepsi OSK Sfantu Gheorghe",
+        "logo": "https://media.api-sports.io/football/teams/2585.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2581,
+        "name": "FC Botosani",
+        "logo": "https://media.api-sports.io/football/teams/2581.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 283,
+        "name": "Liga I",
+        "country": "Romania",
+        "logo": "https://media.api-sports.io/football/leagues/283.png",
+        "flag": "https://media.api-sports.io/flags/ro.svg",
+        "season": 2024,
+        "round": "Relegation Round - 8",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.20",
+        "draw": "3.10",
+        "away": "3.10"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 567,
+      "fixtureId": 1203230,
+      "rowNumber": 55,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T18:30:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 340,
+        "name": "Gornik Zabrze",
+        "logo": "https://media.api-sports.io/football/teams/340.png",
+        "winner": null
+      },
+      "away": {
+        "id": 337,
+        "name": "Slask Wroclaw",
+        "logo": "https://media.api-sports.io/football/teams/337.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 106,
+        "name": "Ekstraklasa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/leagues/106.png",
+        "flag": "https://media.api-sports.io/flags/pl.svg",
+        "season": 2024,
+        "round": "Regular Season - 32",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.20",
+        "draw": "3.50",
+        "away": "3.00"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 568,
+      "fixtureId": 1217921,
+      "rowNumber": 56,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T18:30:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 724,
+        "name": "Cadiz",
+        "logo": "https://media.api-sports.io/football/teams/724.png",
+        "winner": null
+      },
+      "away": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 141,
+        "name": "Segunda División",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/141.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2024,
+        "round": "Regular Season - 39",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.90",
+        "draw": "3.25",
+        "away": "2.25"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 569,
+      "fixtureId": 1361791,
+      "rowNumber": 57,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T18:45:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 736,
+        "name": "Charleroi",
+        "logo": "https://media.api-sports.io/football/teams/736.png",
+        "winner": null
+      },
+      "away": {
+        "id": 261,
+        "name": "KVC Westerlo",
+        "logo": "https://media.api-sports.io/football/teams/261.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 144,
+        "name": "Jupiler Pro League",
+        "country": "Belgium",
+        "logo": "https://media.api-sports.io/football/leagues/144.png",
+        "flag": "https://media.api-sports.io/flags/be.svg",
+        "season": 2024,
+        "round": "Conference League Play-off Group - 8",
+        "standings": true
+      },
+      "odds": {
+        "home": "1.95",
+        "draw": "3.80",
+        "away": "3.50"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    },
+    {
+      "id": 570,
+      "fixtureId": 1374043,
+      "rowNumber": 58,
+      "day": "Friday, May 9",
+      "startTime": "2025-05-09T19:00:00.000Z",
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      },
+      "home": {
+        "id": 1346,
+        "name": "Coventry",
+        "logo": "https://media.api-sports.io/football/teams/1346.png",
+        "winner": null
+      },
+      "away": {
+        "id": 746,
+        "name": "Sunderland",
+        "logo": "https://media.api-sports.io/football/teams/746.png",
+        "winner": null
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "league": {
+        "id": 40,
+        "name": "Championship",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/40.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+        "season": 2024,
+        "round": "Promotion Play-offs - Semi-finals",
+        "standings": true
+      },
+      "odds": {
+        "home": "2.35",
+        "draw": "3.10",
+        "away": "3.25"
+      },
+      "lastUpdated": "2025-05-06T13:20:34.501Z"
+    }
+  ],
+  "apiCache": [
+    {
+      "id": 1,
+      "key": "football_scores_base_data",
+      "lastFetched": "2025-05-06T13:20:34.501Z"
+    }
+  ],
+  "forecastHistory": [
+    {
+      "id": 1,
+      "weekSectionId": "2025-W18-SatMon",
+      "rowNumber": 2,
+      "fixtureId": 1324643,
+      "forecast": "1/2",
+      "isCorrect": true,
+      "actualOutcome": "1",
+      "createdAt": "2025-05-06T13:20:38.058Z"
+    },
+    {
+      "id": 2,
+      "weekSectionId": "2025-W18-SatMon",
+      "rowNumber": 3,
+      "fixtureId": 1324647,
+      "forecast": "X/2",
+      "isCorrect": true,
+      "actualOutcome": "2",
+      "createdAt": "2025-05-06T13:20:38.058Z"
+    },
+    {
+      "id": 3,
+      "weekSectionId": "2025-W18-SatMon",
+      "rowNumber": 4,
+      "fixtureId": 1324092,
+      "forecast": "1/2",
+      "isCorrect": true,
+      "actualOutcome": "2",
+      "createdAt": "2025-05-06T13:20:38.058Z"
+    },
+    {
+      "id": 4,
+      "weekSectionId": "2025-W18-SatMon",
+      "rowNumber": 8,
+      "fixtureId": 1324645,
+      "forecast": "1/2",
+      "isCorrect": true,
+      "actualOutcome": "1",
+      "createdAt": "2025-05-06T13:20:38.058Z"
+    },
+    {
+      "id": 5,
+      "weekSectionId": "2025-W18-SatMon",
+      "rowNumber": 9,
+      "fixtureId": 1324648,
+      "forecast": "X/2",
+      "isCorrect": true,
+      "actualOutcome": "2",
+      "createdAt": "2025-05-06T13:20:38.058Z"
+    },
+    {
+      "id": 6,
+      "weekSectionId": "2025-W18-SatMon",
+      "rowNumber": 11,
+      "fixtureId": 1324097,
+      "forecast": "X/2",
+      "isCorrect": true,
+      "actualOutcome": "X",
+      "createdAt": "2025-05-06T13:20:38.058Z"
+    },
+    {
+      "id": 7,
+      "weekSectionId": "2025-W18-SatMon",
+      "rowNumber": 15,
+      "fixtureId": 1324649,
+      "forecast": "1/2",
+      "isCorrect": true,
+      "actualOutcome": "2",
+      "createdAt": "2025-05-06T13:20:38.058Z"
+    }
+  ]
+}

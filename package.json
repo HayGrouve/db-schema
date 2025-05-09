@@ -22,7 +22,10 @@
     "schema:publish": "npm run schema:update && npm run build && npm publish --access public",
     "version:patch": "npm version patch && npm run schema:publish",
     "version:minor": "npm version minor && npm run schema:publish",
-    "version:major": "npm version major && npm run schema:publish"
+    "version:major": "npm version major && npm run schema:publish",
+    "backup": "ts-node scripts/backup.ts",
+    "clean:recipes": "ts-node scripts/clean-push.ts",
+    "reset:vercel": "ts-node scripts/reset-vercel-db.ts"
   },
   "keywords": [
     "database",
