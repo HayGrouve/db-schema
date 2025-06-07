@@ -1,6 +1,6 @@
 // Export all tables
-export * from "./recipes";
 export * from "./sportpredict";
+export * from "./recipes-share";
 
 // You can add more exports or utility functions here
 export const schemaVersion = "1.4.0";

@@ -42,7 +42,6 @@ async function backup() {
     }
 
     // Backup each table safely
-    await safeBackupTable("recipes", () => db.select().from(schema.recipes));
     await safeBackupTable("footballScores", () =>
       db.select().from(schema.footballScores)
     );
